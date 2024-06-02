@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Html & Css</b>
-  - [Css Animation](https://github.com/PointParticle/Teddy-bear)
+  - [Css Animation](https://github.com/PointParticle/Teddy-Bear)
   
 
 <h2> 🤳 Connect with me:</h2>
